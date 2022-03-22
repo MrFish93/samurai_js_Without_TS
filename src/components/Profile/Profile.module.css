@@ -1,7 +1,10 @@
-img {
-    width: 1070px;
+.content img {
+    width: 50px;
 }
 
 .descriptions {
     padding: 10px;
+}
+.descriptions img {
+    width: 500px;
 }
